@@ -1,0 +1,7 @@
+10000
+        392640	applea
+        392640	appleab
+        392481	appleabc
+        392402	appleabcd
+        392402	applebade
+        392323	applecdab
